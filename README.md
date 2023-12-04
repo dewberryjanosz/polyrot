@@ -33,6 +33,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Citation
-If you make use of Polyrot for any publications, please link to this repository (https://github.com/dewberryjanosz/polyrot) and include a citation to
+If you make use of Polyrot for any publications, please link to the code repository at <https://github.com/dewberryjanosz/polyrot>, and include a citation to
 
 Dewberry, J. W., Mankovich, C. R., & Fuller, J. 2022, MNRAS, 516, 358 (DOI: 10.1093/mnras/stac1957)
