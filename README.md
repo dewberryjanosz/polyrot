@@ -17,7 +17,11 @@ $$
 is an effective centrifugal potential determined by the angular velocity profile $\Omega=\Omega(R)$ (where $R=r\sin\theta$ is the cylindrical radius). For more details, please see Dewberry, Mankovich & Fuller (2022; https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..358D/abstract).
 
 ## Installation
-This package should require only an installation of numpy, scipy, and matplotlib. To install, simply run "pip install polyrot"
+This package should require only an installation of numpy, scipy, and matplotlib. The code can be pip-installed with 
+
+```
+  pip install polyrot
+```
 
 ## Usage
 The jupyter-notebook included in this repository introduces basic usage of polyrot. 
