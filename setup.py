@@ -27,7 +27,10 @@ setup(
     author_email="jdewberry@cita.utoronto.ca",
     license="GPL-3.0-only",
     url="https://github.com/dewberryjanosz/polyrot",
-    packages=['polyrot'],
+    packages=['polyrot'],    
+    install_requires=['matplotlib',
+                      'numpy',   
+                      'scipy'],
     python_requires=">=3.6",
     classifiers=[
         "Programming Language :: Python :: 3",
