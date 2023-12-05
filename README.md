@@ -36,7 +36,7 @@ polyrot is distributed in the hope that it will be useful, but WITHOUT ANY WARRA
 You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Citation
-If you make use of Polyrot for any publications, please link to the code repository at 
+If you make use of polyrot for any publications, please link to the code repository at 
 
 <https://github.com/dewberryjanosz/polyrot>
 
