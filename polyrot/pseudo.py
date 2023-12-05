@@ -263,7 +263,7 @@ def dPl(mu,l):
 
 def makeDmats(dfuns,x,yp,par=0,n0=0,**kwargs):
     '''
-        computes pseudospectral collocation matriceself. 
+        computes pseudospectral collocation matrices. 
 
         Inputs:
             -dfuns: list of functions for computing basis function derivs
